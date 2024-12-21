@@ -1,28 +1,7 @@
 {
   "version": 3,
   "characters": {
-    "Sage Mode Naruto 2": {
-      "face": "https://i.imgur.com/example1.png",
-      "skills": [
-        {
-          "name": "Sage Art: Massive Rasengan",
-          "url": "https://i.imgur.com/skill1.png"
-        },
-        {
-          "name": "Frog Kata",
-          "url": "https://i.imgur.com/skill2.png"
-        },
-        {
-          "name": "Nature Energy Absorption",
-          "url": "https://i.imgur.com/skill3.png"
-        },
-        {
-          "name": "Sage Mode Defense",
-          "url": "https://i.imgur.com/skill4.png"
-        }
-      ]
-    },
-    "Eight Gates Guy": {
+    "CINN": {
       "face": "https://i.imgur.com/example2.png",
       "skills": [
         {
