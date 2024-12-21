@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "characters": {
+    "Sage Mode Naruto": {
+      "face": "https://i.imgur.com/example1.png",
+      "skills": [
+        {
+          "name": "Sage Art: Massive Rasengan",
+          "url": "https://i.imgur.com/skill1.png"
+        },
+        {
+          "name": "Frog Kata",
+          "url": "https://i.imgur.com/skill2.png"
+        },
+        {
+          "name": "Nature Energy Absorption",
+          "url": "https://i.imgur.com/skill3.png"
+        },
+        {
+          "name": "Sage Mode Defense",
+          "url": "https://i.imgur.com/skill4.png"
+        }
+      ]
+    },
+    "Eight Gates Guy": {
+      "face": "https://i.imgur.com/example2.png",
+      "skills": [
+        {
+          "name": "Evening Elephant",
+          "url": "https://i.imgur.com/skill5.png"
+        },
+        {
+          "name": "Night Guy",
+          "url": "https://i.imgur.com/skill6.png"
+        },
+        {
+          "name": "Eight Gates Released",
+          "url": "https://i.imgur.com/skill7.png"
+        },
+        {
+          "name": "Red Steam",
+          "url": "https://i.imgur.com/skill8.png"
+        }
+      ]
+    }
+  }
+} 
