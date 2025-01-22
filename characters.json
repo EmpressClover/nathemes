@@ -1,47 +1,3006 @@
 {
-  "version": 6,
-  "characters": {
-    "Sage Mode Naruto": {
-      "face": "https://i.imgur.com/example1.png",
-      "skills": [
-        {
-          "name": "Sage Art: Massive Rasengan",
-          "url": "https://i.imgur.com/skill1.png"
+    "version": "1.0",
+    "characters": {
+        "Uzumaki Naruto": {
+            "face": "https://i.imgur.com/QGf2RXi.png",
+            "skills": [
+                {
+                    "name": "Uzumaki Naruto Combo",
+                    "url": "https://i.imgur.com/Uy1TKG3.png"
+                },
+                {
+                    "name": "Rasengan",
+                    "url": "https://i.imgur.com/thNhBRH.png"
+                },
+                {
+                    "name": "Shadow Clones",
+                    "url": "https://i.imgur.com/98c5RRL.png"
+                },
+                {
+                    "name": "Sexy Technique",
+                    "url": "https://i.imgur.com/Aue7Pce.png"
+                }
+            ]
         },
-        {
-          "name": "Frog Kata",
-          "url": "https://i.imgur.com/skill2.png"
+        "Haruno Sakura": {
+            "face": "https://i.imgur.com/TWShCf2.png",
+            "skills": [
+                {
+                    "name": "KO Punch",
+                    "url": "https://i.imgur.com/x0Yqker.png"
+                },
+                {
+                    "name": "Mystical Palm Healing",
+                    "url": "https://i.imgur.com/M2O5AdG.png"
+                },
+                {
+                    "name": "Inner Sakura",
+                    "url": "https://i.imgur.com/03BjSkn.jpg"
+                },
+                {
+                    "name": "Sakura Replacement Technique",
+                    "url": "https://i.imgur.com/hGOwcqv.png"
+                }
+            ]
         },
-        {
-          "name": "Nature Energy Absorption",
-          "url": "https://i.imgur.com/skill3.png"
+        "Uchiha Sasuke": {
+            "face": "https://i.imgur.com/qSvGnhb.png",
+            "skills": [
+                {
+                    "name": "Lion Combo",
+                    "url": "https://i.imgur.com/tEIH5fQ.png"
+                },
+                {
+                    "name": "Chidori",
+                    "url": "https://i.imgur.com/kQpuuuX.png"
+                },
+                {
+                    "name": "Sharingan",
+                    "url": "https://i.imgur.com/Sv53VXt.png"
+                },
+                {
+                    "name": "Swift Block",
+                    "url": "https://i.imgur.com/F29QZe1.png"
+                }
+            ]
         },
-        {
-          "name": "Sage Mode Defense",
-          "url": "https://i.imgur.com/skill4.png"
+        "Inuzuka Kiba": {
+            "face": "https://i.imgur.com/2RwMXy9.png",
+            "skills": [
+                {
+                    "name": "Garouga",
+                    "url": "https://i.imgur.com/bDo7cUF.png"
+                },
+                {
+                    "name": "Double-Headed Wolf",
+                    "url": "https://i.imgur.com/dTMLAr4.png"
+                },
+                {
+                    "name": "Dynamic Marking",
+                    "url": "https://i.imgur.com/I6iXYsf.png"
+                },
+                {
+                    "name": "Smoke Bomb",
+                    "url": "https://i.imgur.com/SM6uB5m.png"
+                }
+            ]
+        },
+        "Aburame Shino": {
+            "face": "https://i.imgur.com/XSgn9p9.png",
+            "skills": [
+                {
+                    "name": "Chakra Leech",
+                    "url": "https://i.imgur.com/stITUZu.png"
+                },
+                {
+                    "name": "Female Bug",
+                    "url": "https://i.imgur.com/AqTF34G.png"
+                },
+                {
+                    "name": "Bug Wall",
+                    "url": "https://i.imgur.com/R4CCGFY.png"
+                },
+                {
+                    "name": "Shino Hide",
+                    "url": "https://i.imgur.com/tpBANwd.png"
+                }
+            ]
+        },
+        "Hyuuga Hinata": {
+            "face": "https://i.imgur.com/4DPzmco.png",
+            "skills": [
+                {
+                    "name": "Hinata Gentle Fist",
+                    "url": "https://i.imgur.com/7nQgwjH.png"
+                },
+                {
+                    "name": "Protective Eight Trigrams Sixty-Four Palms",
+                    "url": "https://i.imgur.com/k2RNBrZ.png"
+                },
+                {
+                    "name": "Byakugan",
+                    "url": "https://i.imgur.com/bu1obnX.png"
+                },
+                {
+                    "name": "Hinata Block",
+                    "url": "https://i.imgur.com/3cpXMxC.png"
+                }
+            ]
+        },
+        "Nara Shikamaru": {
+            "face": "https://i.imgur.com/K2zZmN5.png",
+            "skills": [
+                {
+                    "name": "Meditate",
+                    "url": "https://i.imgur.com/a7S5C5w.png"
+                },
+                {
+                    "name": "Shadow-Neck Bind",
+                    "url": "https://i.imgur.com/CmEudLR.png"
+                },
+                {
+                    "name": "Shadow Imitation",
+                    "url": "https://i.imgur.com/eC9GWCD.png"
+                },
+                {
+                    "name": "Shikamaru Hide",
+                    "url": "https://i.imgur.com/GhEHgrl.png"
+                }
+            ]
+        },
+        "Akimichi Chouji": {
+            "face": "https://i.imgur.com/NxOq035.png",
+            "skills": [
+                {
+                    "name": "Partial Multi-Size",
+                    "url": "https://i.imgur.com/cnZD5Wd.png"
+                },
+                {
+                    "name": "Meat Tank",
+                    "url": "https://i.imgur.com/sCIWub7.png"
+                },
+                {
+                    "name": "Akimichi Pills",
+                    "url": "https://i.imgur.com/mlL0qYo.png"
+                },
+                {
+                    "name": "Effortless Block",
+                    "url": "https://i.imgur.com/wVVFj3V.png"
+                }
+            ]
+        },
+        "Yamanaka Ino": {
+            "face": "https://i.imgur.com/mz92sNM.png",
+            "skills": [
+                {
+                    "name": "Mind Body Disturbance",
+                    "url": "https://i.imgur.com/rAnVK81.png"
+                },
+                {
+                    "name": "Mind Body Switch",
+                    "url": "https://i.imgur.com/MYXw3WU.png"
+                },
+                {
+                    "name": "Chakra Hair Strand Trap",
+                    "url": "https://i.imgur.com/4VxNq83.png"
+                },
+                {
+                    "name": "Ino Block",
+                    "url": "https://i.imgur.com/2o5RnKa.png"
+                },
+                {
+                    "name": "Art of the Valentine",
+                    "url": "https://i.imgur.com/RfWzT2j.png"
+                }
+            ]
+        },
+        "Rock Lee": {
+            "face": "https://i.imgur.com/LUA3QK2.jpg",
+            "skills": [
+                {
+                    "name": "High Speed Taijutsu",
+                    "url": "https://i.imgur.com/roHIgPj.jpg"
+                },
+                {
+                    "name": "Front Lotus",
+                    "url": "https://i.imgur.com/xTW0rSg.jpg"
+                },
+                {
+                    "name": "Fifth Gate Opening",
+                    "url": "https://i.imgur.com/P9VlwlX.jpg"
+                },
+                {
+                    "name": "Lee Block",
+                    "url": "https://i.imgur.com/FzYdXrC.jpg"
+                },
+                {
+                    "name": "Final Lotus",
+                    "url": "https://i.imgur.com/Zyh8oLG.png"
+                }
+            ]
+        },
+        "Tenten": {
+            "face": "https://i.imgur.com/dvfsGj0.png",
+            "skills": [
+                {
+                    "name": "Twin Rising Dragons",
+                    "url": "https://i.imgur.com/9UePPXl.png"
+                },
+                {
+                    "name": "Twin Rising Dragons Trap",
+                    "url": "https://i.imgur.com/4XOUAzc.png"
+                },
+                {
+                    "name": "Twin Rising Dragons Full Release",
+                    "url": "https://i.imgur.com/HYiz4vX.png"
+                },
+                {
+                    "name": "Spiked Boulder Shield",
+                    "url": "https://i.imgur.com/Wft7mi8.png"
+                }
+            ]
+        },
+        "Hyuuga Neji": {
+            "face": "https://i.imgur.com/9CiN3WT.png",
+            "skills": [
+                {
+                    "name": "Neji Gentle Fist",
+                    "url": "https://i.imgur.com/TO1FgCV.png"
+                },
+                {
+                    "name": "Eight Trigrams Revolving Heaven",
+                    "url": "https://i.imgur.com/SbXg9y7.png"
+                },
+                {
+                    "name": "Eight Trigram Sixty-Four Palms",
+                    "url": "https://i.imgur.com/gLzCj5f.png"
+                },
+                {
+                    "name": "Byakugan Insight",
+                    "url": "https://i.imgur.com/8mfr9KF.png"
+                }
+            ]
+        },
+        "Gaara": {
+            "face": "https://i.imgur.com/iEHOxAY.png",
+            "skills": [
+                {
+                    "name": "Automatic Sand Defense",
+                    "url": "https://i.imgur.com/3ZThkkI.png"
+                },
+                {
+                    "name": "Sand Formation",
+                    "url": "https://i.imgur.com/lj3f40T.png"
+                },
+                {
+                    "name": "Sand Coffin",
+                    "url": "https://i.imgur.com/1dAUjTw.png"
+                },
+                {
+                    "name": "Shield of Sand",
+                    "url": "https://i.imgur.com/orbwP6m.png"
+                },
+                {
+                    "name": "Sand Shuriken",
+                    "url": "https://i.imgur.com/KB2ocYC.png"
+                },
+                {
+                    "name": "Sand Trail",
+                    "url": "https://i.imgur.com/a1b2jJC.png"
+                }
+            ]
+        },
+        "Kankuro": {
+            "face": "https://i.imgur.com/xltwSom.png",
+            "skills": [
+                {
+                    "name": "Black Secret Machine One Shot",
+                    "url": "https://i.imgur.com/owGzJ9v.png"
+                },
+                {
+                    "name": "Poison Bomb",
+                    "url": "https://i.imgur.com/0gIexLI.jpeg"
+                },
+                {
+                    "name": "Puppet Preparation",
+                    "url": "https://i.imgur.com/Kya84CC.png"
+                },
+                {
+                    "name": "Puppet Replacement Technique",
+                    "url": "https://i.imgur.com/mpGOYy6.png"
+                }
+            ]
+        },
+        "Temari": {
+            "face": "https://i.imgur.com/kTLEaMP.png",
+            "skills": [
+                {
+                    "name": "Cutting Whirlwind",
+                    "url": "https://i.imgur.com/XA5pGTk.png"
+                },
+                {
+                    "name": "Summoning Quick Beheading Dance",
+                    "url": "https://i.imgur.com/z6DZR9Q.png"
+                },
+                {
+                    "name": "Dust Wind",
+                    "url": "https://i.imgur.com/JbSunqZ.png"
+                },
+                {
+                    "name": "Backflip",
+                    "url": "https://i.imgur.com/m483nX0.png"
+                }
+            ]
+        },
+        "Kinuta Dosu": {
+            "face": "https://i.imgur.com/gDSGgOc.jpg",
+            "skills": [
+                {
+                    "name": "Resonating Echo Drill",
+                    "url": "https://i.imgur.com/E0ZWhLb.png"
+                },
+                {
+                    "name": "Sound Manipulation",
+                    "url": "https://i.imgur.com/xRQaOd7.jpeg"
+                },
+                {
+                    "name": "Melody Arm Tuning",
+                    "url": "https://i.imgur.com/YDHieDm.jpg"
+                },
+                {
+                    "name": "Dosu Dodge",
+                    "url": "https://i.imgur.com/QiAMjEo.png"
+                }
+            ]
+        },
+        "Tsuchi Kin": {
+            "face": "https://i.imgur.com/omC0mq2.png",
+            "skills": [
+                {
+                    "name": "Illusion Bell Needles",
+                    "url": "https://i.imgur.com/GpC5xdJ.png"
+                },
+                {
+                    "name": "Needle and Bell Trap",
+                    "url": "https://i.imgur.com/jvEeZjs.png"
+                },
+                {
+                    "name": "Unnerving Bells",
+                    "url": "https://i.imgur.com/SDppNlB.png"
+                },
+                {
+                    "name": "Sharp Analysis",
+                    "url": "https://i.imgur.com/E4r6BN9.png"
+                }
+            ]
+        },
+        "Abumi Zaku": {
+            "face": "https://i.imgur.com/zCdcIJ8.png",
+            "skills": [
+                {
+                    "name": "Decapitating Airwaves",
+                    "url": "https://i.imgur.com/5hIyXfR.png"
+                },
+                {
+                    "name": "Wall of Air",
+                    "url": "https://i.imgur.com/upWnlDl.png"
+                },
+                {
+                    "name": "Extreme Decapitating Airwaves",
+                    "url": "https://i.imgur.com/Yo7IQNe.png"
+                },
+                {
+                    "name": "Airwave Deflection",
+                    "url": "https://i.imgur.com/xssUpbi.png"
+                }
+            ]
+        },
+        "Young Kakashi": {
+            "face": "https://i.imgur.com/Jgctdrf.png",
+            "skills": [
+                {
+                    "name": "White Fang Slash",
+                    "url": "https://i.imgur.com/IpdntOA.png"
+                },
+                {
+                    "name": "Amateur Raikiri",
+                    "url": "https://i.imgur.com/DFBg2VL.png"
+                },
+                {
+                    "name": "Implanted Sharingan",
+                    "url": "https://i.imgur.com/nBwjX6M.png"
+                },
+                {
+                    "name": "Sword Parry",
+                    "url": "https://i.imgur.com/a0DYuNH.png"
+                }
+            ]
+        },
+        "Uchiha Obito": {
+            "face": "https://i.imgur.com/YwerQiX.png",
+            "skills": [
+                {
+                    "name": "Piercing Stab",
+                    "url": "https://i.imgur.com/aIkGH5N.png"
+                },
+                {
+                    "name": "Obito Great Fireball",
+                    "url": "https://i.imgur.com/GlgVYSz.png"
+                },
+                {
+                    "name": "Obito Sharingan",
+                    "url": "https://i.imgur.com/uB9HwbX.png"
+                },
+                {
+                    "name": "Obito Flee",
+                    "url": "https://i.imgur.com/oyrblWf.png"
+                }
+            ]
+        },
+        "Nohara Rin": {
+            "face": "https://i.imgur.com/kJ3u53S.png",
+            "skills": [
+                {
+                    "name": "Pit Trap",
+                    "url": "https://i.imgur.com/k6wzRLL.png"
+                },
+                {
+                    "name": "Rin Mystical Palm Healing",
+                    "url": "https://i.imgur.com/zLmVk8s.png"
+                },
+                {
+                    "name": "Medical Kit",
+                    "url": "https://i.imgur.com/c4HwOLU.png"
+                },
+                {
+                    "name": "Flee",
+                    "url": "https://i.imgur.com/0XboBBP.png"
+                }
+            ]
+        },
+        "Hyuuga Hanabi": {
+            "face": "https://i.imgur.com/uE9xQEF.png",
+            "skills": [
+                {
+                    "name": "Hanabi Gentle Fist",
+                    "url": "https://i.imgur.com/it1bsDV.png"
+                },
+                {
+                    "name": "Hanabi Kaiten",
+                    "url": "https://i.imgur.com/plUIFd7.png"
+                },
+                {
+                    "name": "Unyielding Tenacity",
+                    "url": "https://i.imgur.com/s6DcCAA.png"
+                },
+                {
+                    "name": "Hanabi Byakugan",
+                    "url": "https://i.imgur.com/To9EsI6.png"
+                }
+            ]
+        },
+        "Drunken Lee": {
+            "face": "https://i.imgur.com/4yIYk5T.png",
+            "skills": [
+                {
+                    "name": "Unpredictable Assault",
+                    "url": "https://i.imgur.com/iVg35Ve.png"
+                },
+                {
+                    "name": "Drunken Counter",
+                    "url": "https://i.imgur.com/56rirZI.png"
+                },
+                {
+                    "name": "Drunken Fist",
+                    "url": "https://i.imgur.com/74UjwFX.png"
+                },
+                {
+                    "name": "Drunken Leap",
+                    "url": "https://i.imgur.com/WWza0iI.png"
+                }
+            ]
+        },
+        "Rehabilitated Gaara": {
+            "face": "https://i.imgur.com/Q1xZmLs.png",
+            "skills": [
+                {
+                    "name": "Sand Mastery",
+                    "url": "https://i.imgur.com/MBeL59f.png"
+                },
+                {
+                    "name": "Prison Sand Burial",
+                    "url": "https://i.imgur.com/0BbnzK2.png"
+                },
+                {
+                    "name": "Quicksand Waterfall Flow",
+                    "url": "https://i.imgur.com/zcOOXHK.png"
+                },
+                {
+                    "name": "Shield of Shukaku",
+                    "url": "https://i.imgur.com/tOl0u5S.png"
+                },
+                {
+                    "name": "Desert Imperial Funeral",
+                    "url": "https://i.imgur.com/pS96dz5.png"
+                }
+            ]
+        },
+        "Oboro": {
+            "face": "https://i.imgur.com/XLe6m8K.png",
+            "skills": [
+                {
+                    "name": "Exploding Kunai",
+                    "url": "https://i.imgur.com/vxEs9GJ.png"
+                },
+                {
+                    "name": "Earth Swim",
+                    "url": "https://i.imgur.com/JTbbmcu.png"
+                },
+                {
+                    "name": "Haze Clone",
+                    "url": "https://i.imgur.com/QqFMOtf.png"
+                },
+                {
+                    "name": "Oboro Hiding Tactics",
+                    "url": "https://i.imgur.com/HBIsrsp.png"
+                }
+            ]
+        },
+        "Shigure": {
+            "face": "https://i.imgur.com/oZT2jom.png",
+            "skills": [
+                {
+                    "name": "Umbrella Toss",
+                    "url": "https://i.imgur.com/oo2VNIZ.png"
+                },
+                {
+                    "name": "Senbon Shower",
+                    "url": "https://i.imgur.com/IiYoFlG.png"
+                },
+                {
+                    "name": "Senbon Barrage",
+                    "url": "https://i.imgur.com/QbhrmoC.png"
+                },
+                {
+                    "name": "Umbrella Block",
+                    "url": "https://i.imgur.com/RVGeqtK.png"
+                }
+            ]
+        },
+        "Akadou Yoroi": {
+            "face": "https://i.imgur.com/cnhCRXg.png",
+            "skills": [
+                {
+                    "name": "Energy Drain",
+                    "url": "https://i.imgur.com/5WXWl5W.png"
+                },
+                {
+                    "name": "Draining Assault",
+                    "url": "https://i.imgur.com/Xk5WYM6.png"
+                },
+                {
+                    "name": "Chakra Focus",
+                    "url": "https://i.imgur.com/KUQCLFU.png"
+                },
+                {
+                    "name": "Chakra Block",
+                    "url": "https://i.imgur.com/0o9yyGV.png"
+                }
+            ]
+        },
+        "Tsurugi Misumi": {
+            "face": "https://i.imgur.com/M8EPY4F.png",
+            "skills": [
+                {
+                    "name": "Flexible Twisting Joints",
+                    "url": "https://i.imgur.com/8FEZbng.png"
+                },
+                {
+                    "name": "Soft Physique Modification",
+                    "url": "https://i.imgur.com/v4pbrUV.png"
+                },
+                {
+                    "name": "Tighten Joints",
+                    "url": "https://i.imgur.com/uXcAWox.png"
+                },
+                {
+                    "name": "Misumi Block",
+                    "url": "https://i.imgur.com/YFyCnBp.png"
+                }
+            ]
+        },
+        "Umino Iruka": {
+            "face": "https://i.imgur.com/a2vW3gO.png",
+            "skills": [
+                {
+                    "name": "Shuriken Throw",
+                    "url": "https://i.imgur.com/lPYgQ6G.png"
+                },
+                {
+                    "name": "Ally Shield",
+                    "url": "https://i.imgur.com/yg3g9GQ.png"
+                },
+                {
+                    "name": "Sealed Bombs Square Formation",
+                    "url": "https://i.imgur.com/UFVyRZK.png"
+                },
+                {
+                    "name": "Iruka Parry",
+                    "url": "https://i.imgur.com/dH8njNg.png"
+                }
+            ]
+        },
+        "Mizuki": {
+            "face": "https://i.imgur.com/56OlIhi.png",
+            "skills": [
+                {
+                    "name": "Kunai Assault",
+                    "url": "https://i.imgur.com/tkAAwlQ.png"
+                },
+                {
+                    "name": "Execution Shuriken",
+                    "url": "https://i.imgur.com/o617FeR.png"
+                },
+                {
+                    "name": "Genjutsu Ambush Tactics",
+                    "url": "https://i.imgur.com/I7AmzNA.png"
+                },
+                {
+                    "name": "Mizuki Dodge",
+                    "url": "https://i.imgur.com/4sdIwzV.png"
+                }
+            ]
+        },
+        "Jiroubou": {
+            "face": "https://i.imgur.com/scBunO7.png",
+            "skills": [
+                {
+                    "name": "Arhat Fist",
+                    "url": "https://i.imgur.com/p23bcPf.png"
+                },
+                {
+                    "name": "Earth Mausoleum Dumpling",
+                    "url": "https://i.imgur.com/FD9OSvE.png"
+                },
+                {
+                    "name": "Earth Prison of Magnificent Nothingness",
+                    "url": "https://i.imgur.com/FShelfu.png"
+                },
+                {
+                    "name": "Terra Shield",
+                    "url": "https://i.imgur.com/y5tsyE2.png"
+                }
+            ]
+        },
+        "Kidoumaru": {
+            "face": "https://i.imgur.com/ZSWwJiY.png",
+            "skills": [
+                {
+                    "name": "Spider Bow: Fierce Rip",
+                    "url": "https://i.imgur.com/9FGWta9.png"
+                },
+                {
+                    "name": "Summoning: Kyodaigumo",
+                    "url": "https://i.imgur.com/TyhkdYM.png"
+                },
+                {
+                    "name": "Spiral Web",
+                    "url": "https://i.imgur.com/Mcx7Ibu.png"
+                },
+                {
+                    "name": "Golden Armor",
+                    "url": "https://i.imgur.com/5h0v2Qd.png"
+                }
+            ]
+        },
+        "Tayuya": {
+            "face": "https://i.imgur.com/TLS8WDY.png",
+            "skills": [
+                {
+                    "name": "Summoning: Doki",
+                    "url": "https://i.imgur.com/yzxk31N.png"
+                },
+                {
+                    "name": "Demonic Flute: Phantom Wave",
+                    "url": "https://i.imgur.com/1KKY3gs.png"
+                },
+                {
+                    "name": "Demonic Flute",
+                    "url": "https://i.imgur.com/IPdtqHq.png"
+                },
+                {
+                    "name": "Insight",
+                    "url": "https://i.imgur.com/XG0Xs1t.png"
+                }
+            ]
+        },
+        "Sakon": {
+            "face": "https://i.imgur.com/fXMOzMv.png",
+            "skills": [
+                {
+                    "name": "Gattling Punch",
+                    "url": "https://i.imgur.com/512uuK2.png"
+                },
+                {
+                    "name": "Parasite Demon Technique",
+                    "url": "https://i.imgur.com/eSrasa0.png"
+                },
+                {
+                    "name": "Rest",
+                    "url": "https://i.imgur.com/5IHOsdy.png"
+                },
+                {
+                    "name": "Summoning Rashoumon",
+                    "url": "https://i.imgur.com/QRsD9WZ.png"
+                }
+            ]
+        },
+        "Kimimaro": {
+            "face": "https://i.imgur.com/qzCv58M.png",
+            "skills": [
+                {
+                    "name": "Dance of the Camellia",
+                    "url": "https://i.imgur.com/kwWcpw0.png"
+                },
+                {
+                    "name": "Dance of the Clematis",
+                    "url": "https://i.imgur.com/Q6rE1Ey.png"
+                },
+                {
+                    "name": "Dance of the Seedling Fern",
+                    "url": "https://i.imgur.com/hgM78mG.png"
+                },
+                {
+                    "name": "Bone Defense",
+                    "url": "https://i.imgur.com/bSUqg3e.png"
+                }
+            ]
+        },
+        "Mitarashi Anko": {
+            "face": "https://i.imgur.com/q0YFcWg.png",
+            "skills": [
+                {
+                    "name": "Dual Pin",
+                    "url": "https://i.imgur.com/yVTNqnV.png"
+                },
+                {
+                    "name": "Dragon Fire",
+                    "url": "https://i.imgur.com/XGiMuNO.png"
+                },
+                {
+                    "name": "Hidden Shadow Snake Hand",
+                    "url": "https://i.imgur.com/Yn3GeqF.png"
+                },
+                {
+                    "name": "Quick Reflexes",
+                    "url": "https://i.imgur.com/9ILuwD2.png"
+                },
+                {
+                    "name": "Twin Snakes Mutual Death",
+                    "url": "https://i.imgur.com/EKeHUxH.png"
+                }
+            ]
+        },
+        "Gekko Hayate": {
+            "face": "https://i.imgur.com/CXtg9Cd.png",
+            "skills": [
+                {
+                    "name": "Crescent Moon Slash",
+                    "url": "https://i.imgur.com/F545RcJ.png"
+                },
+                {
+                    "name": "Dance of the Crescent Moon",
+                    "url": "https://i.imgur.com/87IylVS.png"
+                },
+                {
+                    "name": "Meld into Shadows",
+                    "url": "https://i.imgur.com/8BSv8Dx.png"
+                },
+                {
+                    "name": "Backflip Dodge",
+                    "url": "https://i.imgur.com/n1dCIYg.png"
+                }
+            ]
+        },
+        "Shizune": {
+            "face": "https://i.imgur.com/V4ZPeu0.png",
+            "skills": [
+                {
+                    "name": "Prepared Needle Shot",
+                    "url": "https://i.imgur.com/IXgvJIk.png"
+                },
+                {
+                    "name": "Poison Mist",
+                    "url": "https://i.imgur.com/pAf7GAy.png"
+                },
+                {
+                    "name": "Healing Resuscitation Regeneration",
+                    "url": "https://i.imgur.com/PXcTQUt.png"
+                },
+                {
+                    "name": "Shizune Dodge",
+                    "url": "https://i.imgur.com/ykKkwKV.png"
+                }
+            ]
+        },
+        "Hatake Kakashi": {
+            "face": "https://i.imgur.com/896YA2V.png",
+            "skills": [
+                {
+                    "name": "Sharingan Reflect",
+                    "url": "https://i.imgur.com/ljZDH0V.png"
+                },
+                {
+                    "name": "Summoning: Ninja Dogs",
+                    "url": "https://i.imgur.com/qenftRL.png"
+                },
+                {
+                    "name": "Raikiri",
+                    "url": "https://i.imgur.com/IO6GaRr.png"
+                },
+                {
+                    "name": "Clever Hiding",
+                    "url": "https://i.imgur.com/gK3iCoU.png"
+                }
+            ]
+        },
+        "Yuhi Kurenai": {
+            "face": "https://i.imgur.com/QqBVNof.png",
+            "skills": [
+                {
+                    "name": "Demonic Illusion: Entrap",
+                    "url": "https://i.imgur.com/k5OvteE.png"
+                },
+                {
+                    "name": "Illusionary Tree Meld",
+                    "url": "https://i.imgur.com/jUM6QIh.png"
+                },
+                {
+                    "name": "Demonic Illusion: Tree Binding Death",
+                    "url": "https://i.imgur.com/yn3VG8r.jpeg"
+                },
+                {
+                    "name": "Vanishing Illusion",
+                    "url": "https://i.imgur.com/YtPX7C1.png"
+                },
+                {
+                    "name": "Tree Binding Death Attack",
+                    "url": "https://i.imgur.com/Ss1JC0h.png"
+                }
+            ]
+        },
+        "Sarutobi Asuma": {
+            "face": "https://i.imgur.com/N4ZFINr.png",
+            "skills": [
+                {
+                    "name": "Flying Swallow",
+                    "url": "https://i.imgur.com/wjSZGob.png"
+                },
+                {
+                    "name": "Sharpen Blades",
+                    "url": "https://i.imgur.com/TbJ298X.png"
+                },
+                {
+                    "name": "Self Sacrifice",
+                    "url": "https://i.imgur.com/bGWf5AD.png"
+                },
+                {
+                    "name": "Knife Block",
+                    "url": "https://i.imgur.com/LBv8pDE.png"
+                },
+                {
+                    "name": "Finishing Blow",
+                    "url": "https://i.imgur.com/8vhbMar.png"
+                },
+                {
+                    "name": "Flying Kick",
+                    "url": "https://i.imgur.com/vgdclqD.png"
+                }
+            ]
+        },
+        "Maito Gai": {
+            "face": "https://i.imgur.com/CvcZhpB.png",
+            "skills": [
+                {
+                    "name": "Leaf Whirlwind",
+                    "url": "https://i.imgur.com/EEtspTO.png"
+                },
+                {
+                    "name": "Sixth Gate Opening",
+                    "url": "https://i.imgur.com/2tVPi5d.png"
+                },
+                {
+                    "name": "Counter Punch",
+                    "url": "https://i.imgur.com/3rcsOKj.png"
+                },
+                {
+                    "name": "Gai Dodge",
+                    "url": "https://i.imgur.com/3X5TEhi.png"
+                }
+            ]
+        },
+        "Uzumaki Kushina": {
+            "face": "https://i.imgur.com/e8s0PJc.png",
+            "skills": [
+                {
+                    "name": "Four Symbols Seal",
+                    "url": "https://i.imgur.com/7MDXZv2.jpg"
+                },
+                {
+                    "name": "Life Link",
+                    "url": "https://i.imgur.com/KeQwfcn.jpg"
+                },
+                {
+                    "name": "Adamantine Sealing Chains",
+                    "url": "https://i.imgur.com/kVgbH4G.jpg"
+                },
+                {
+                    "name": "Adamantine Covering Chains",
+                    "url": "https://i.imgur.com/O3yVOUO.jpg"
+                },
+                {
+                    "name": "Life Transfer",
+                    "url": "https://i.imgur.com/SnE3AWh.png"
+                }
+            ]
+        },
+        "Namikaze Minato": {
+            "face": "https://i.imgur.com/iM436J6.png",
+            "skills": [
+                {
+                    "name": "Flying Thunder God",
+                    "url": "https://i.imgur.com/tIMIalU.png"
+                },
+                {
+                    "name": "Wide Area Sensing",
+                    "url": "https://i.imgur.com/GjTFYPH.png"
+                },
+                {
+                    "name": "Space-Time Marking",
+                    "url": "https://i.imgur.com/R0TndbW.png"
+                },
+                {
+                    "name": "Flying Light",
+                    "url": "https://i.imgur.com/DEYk7zq.png"
+                }
+            ]
+        },
+        "Baki": {
+            "face": "https://i.imgur.com/w7aKkKK.jpeg",
+            "skills": [
+                {
+                    "name": "Sudden Strike",
+                    "url": "https://i.imgur.com/gn6dTWb.jpeg"
+                },
+                {
+                    "name": "Wind Blade",
+                    "url": "https://i.imgur.com/k8zoCAA.jpeg"
+                },
+                {
+                    "name": "Flak Jacket",
+                    "url": "https://i.imgur.com/kjfi50t.png"
+                },
+                {
+                    "name": "Baki Teleportation",
+                    "url": "https://i.imgur.com/7behEUW.png"
+                }
+            ]
+        },
+        "Yakushi Kabuto": {
+            "face": "https://i.imgur.com/KEUfhff.png",
+            "skills": [
+                {
+                    "name": "Chakra Scalpel",
+                    "url": "https://i.imgur.com/atMVtgq.png"
+                },
+                {
+                    "name": "Yin Healing Wound Destruction",
+                    "url": "https://i.imgur.com/J6jHKXz.png"
+                },
+                {
+                    "name": "Temple of Nirvana",
+                    "url": "https://i.imgur.com/BSIKeqh.png"
+                },
+                {
+                    "name": "Dead Soul Technique",
+                    "url": "https://i.imgur.com/Pv8s5ms.png"
+                }
+            ]
+        },
+        "Tsunade": {
+            "face": "https://i.imgur.com/1IX3aVU.png",
+            "skills": [
+                {
+                    "name": "Heavenly Foot of Pain",
+                    "url": "https://i.imgur.com/NrLKlrU.png"
+                },
+                {
+                    "name": "Creation Rebirth",
+                    "url": "https://i.imgur.com/1SBxj2P.png"
+                },
+                {
+                    "name": "Major Summoning: Katsuyu",
+                    "url": "https://i.imgur.com/CAQUcGk.png"
+                },
+                {
+                    "name": "Elbow Block",
+                    "url": "https://i.imgur.com/qXkTeHs.png1"
+                },
+                {
+                    "name": "Slug Division",
+                    "url": "https://i.imgur.com/0KMu7I2.png"
+                }
+            ]
+        },
+        "Jiraiya": {
+            "face": "https://i.imgur.com/yHEmJKn.png",
+            "skills": [
+                {
+                    "name": "Great Spitting Fireball",
+                    "url": "https://i.imgur.com/gwsm3nZ.png"
+                },
+                {
+                    "name": "Summoning: Toad Mouth Bind",
+                    "url": "https://i.imgur.com/jU6xC6E.png"
+                },
+                {
+                    "name": "Major Summoning: Gamabunta",
+                    "url": "https://i.imgur.com/zmUnvSP.png"
+                },
+                {
+                    "name": "Spiked Buddha",
+                    "url": "https://i.imgur.com/dDBo9UM.png"
+                },
+                {
+                    "name": "Toad Oil Flame Bullet",
+                    "url": "https://i.imgur.com/wyp3rVK.png"
+                }
+            ]
+        },
+        "Orochimaru": {
+            "face": "https://i.imgur.com/7GSmlPA.png",
+            "skills": [
+                {
+                    "name": "Kusanagi",
+                    "url": "https://i.imgur.com/WOqiw8D.png"
+                },
+                {
+                    "name": "Cursed Seal Mark",
+                    "url": "https://i.imgur.com/cfnLiqF.png"
+                },
+                {
+                    "name": "Major Summoning: Manda",
+                    "url": "https://i.imgur.com/A1nvAiA.png"
+                },
+                {
+                    "name": "Earth Clone",
+                    "url": "https://i.imgur.com/cbN5L9k.png"
+                },
+                {
+                    "name": "Constrict and Bite",
+                    "url": "https://i.imgur.com/SQ3UOkV.png"
+                }
+            ]
+        },
+        "ET Senju Hashirama": {
+            "face": "https://i.imgur.com/WrvpYYc.png",
+            "skills": [
+                {
+                    "name": "Tree Wave Destruction",
+                    "url": "https://i.imgur.com/zeNHBoE.png"
+                },
+                {
+                    "name": "Tree Strangulation",
+                    "url": "https://i.imgur.com/l9D4JbY.png"
+                },
+                {
+                    "name": "A World of Trees",
+                    "url": "https://i.imgur.com/25tdBeU.png"
+                },
+                {
+                    "name": "Deflection",
+                    "url": "https://i.imgur.com/dzsckmo.png"
+                }
+            ]
+        },
+        "ET Senju Tobirama": {
+            "face": "https://i.imgur.com/Msz2KM4.png",
+            "skills": [
+                {
+                    "name": "Water Assault",
+                    "url": "https://i.imgur.com/TzDpZzQ.png"
+                },
+                {
+                    "name": "Water Colliding Wave",
+                    "url": "https://i.imgur.com/qfJm4UQ.png"
+                },
+                {
+                    "name": "Bringer of Darkness",
+                    "url": "https://i.imgur.com/9aqZPND.png"
+                },
+                {
+                    "name": "Water Encampment Wall",
+                    "url": "https://i.imgur.com/bUxeevY.png"
+                }
+            ]
+        },
+        "Sarutobi Hiruzen": {
+            "face": "https://i.imgur.com/TwJVOxb.png",
+            "skills": [
+                {
+                    "name": "Fire Dragon Flame Bulletl",
+                    "url": "https://i.imgur.com/Ou8YyJj.png"
+                },
+                {
+                    "name": "Dead Demon Consuming Seal",
+                    "url": "https://i.imgur.com/9E0cYxX.png"
+                },
+                {
+                    "name": "Major Summoning: Enma",
+                    "url": "https://i.imgur.com/Yy4vLVl.png"
+                },
+                {
+                    "name": "Earth-Style Wall",
+                    "url": "https://i.imgur.com/bYTSDfD.png"
+                },
+                {
+                    "name": "Adamantine Prison",
+                    "url": "https://i.imgur.com/l6B5S5W.png"
+                }
+            ]
+        },
+        "Yondaime Minato": {
+            "face": "https://i.imgur.com/IZXX3gO.png",
+            "skills": [
+                {
+                    "name": "Hiraishin Rasengan",
+                    "url": "https://i.imgur.com/YJe4YUl.png"
+                },
+                {
+                    "name": "Space-Time Barrier",
+                    "url": "https://i.imgur.com/NPtZUyI.png"
+                },
+                {
+                    "name": "Partial Dead Demon Consuming Seal",
+                    "url": "https://i.imgur.com/NbuLkmG.png"
+                },
+                {
+                    "name": "Kunai Defense",
+                    "url": "https://i.imgur.com/SUru7Y9.png"
+                }
+            ]
+        },
+        "Demon Brothers": {
+            "face": "https://i.imgur.com/l3xMscq.png",
+            "skills": [
+                {
+                    "name": "Chain Wrap",
+                    "url": "https://i.imgur.com/vrsVzGx.png"
+                },
+                {
+                    "name": "Poison Gauntlet",
+                    "url": "https://i.imgur.com/iAtzctT.png"
+                },
+                {
+                    "name": "Water Melding",
+                    "url": "https://i.imgur.com/nJ2DWX9.png"
+                },
+                {
+                    "name": "Vanish",
+                    "url": "https://i.imgur.com/Xzic8o5.png"
+                },
+                {
+                    "name": "Chain Shred",
+                    "url": "https://i.imgur.com/7Fr4FND.png"
+                }
+            ]
+        },
+        "Haku": {
+            "face": "https://i.imgur.com/EET1Thj.png",
+            "skills": [
+                {
+                    "name": "Flying Water Needles of Death",
+                    "url": "https://i.imgur.com/0B9GLDp.png"
+                },
+                {
+                    "name": "Acupuncture",
+                    "url": "https://i.imgur.com/FVe1KRw.png"
+                },
+                {
+                    "name": "Demonic Mirroring Ice Crystals",
+                    "url": "https://i.imgur.com/ypSQhog.png"
+                },
+                {
+                    "name": "Needle Parry",
+                    "url": "https://i.imgur.com/7sTkiOe.png"
+                }
+            ]
+        },
+        "Momochi Zabuza": {
+            "face": "https://i.imgur.com/mmn0AaQ.png",
+            "skills": [
+                {
+                    "name": "Soundless Murder",
+                    "url": "https://i.imgur.com/uKEgTlB.png"
+                },
+                {
+                    "name": "Water Dragon Missile",
+                    "url": "https://i.imgur.com/26E8xYX.png"
+                },
+                {
+                    "name": "Hidden Mist",
+                    "url": "https://i.imgur.com/K9ENPws.png"
+                },
+                {
+                    "name": "Water Clone Zabuza",
+                    "url": "https://i.imgur.com/tDYftHA.png"
+                }
+            ]
+        },
+        "Kyuubi Naruto": {
+            "face": "https://i.imgur.com/b0A2WKo.png",
+            "skills": [
+                {
+                    "name": "Kyuubi Rasengan",
+                    "url": "https://i.imgur.com/ZVw7pHA.png"
+                },
+                {
+                    "name": "Kyuubi Rage",
+                    "url": "https://i.imgur.com/WexhqIW.png"
+                },
+                {
+                    "name": "Kyuubi Chakra",
+                    "url": "https://i.imgur.com/rnk8wVi.png"
+                },
+                {
+                    "name": "Kyuubi Dodge",
+                    "url": "https://i.imgur.com/ncJMfqI.png"
+                }
+            ]
+        },
+        "Cursed Seal Sasuke": {
+            "face": "https://i.imgur.com/VuLZbnA.png",
+            "skills": [
+                {
+                    "name": "Corrupt Chidori",
+                    "url": "https://i.imgur.com/2eNeRIl.png"
+                },
+                {
+                    "name": "Dark Void",
+                    "url": "https://i.imgur.com/Gi982SB.png"
+                },
+                {
+                    "name": "Cursed Seal",
+                    "url": "https://i.imgur.com/zdEp3Mv.png"
+                },
+                {
+                    "name": "Sharingan Evasion",
+                    "url": "https://i.imgur.com/gcRgFEG.png"
+                }
+            ]
+        },
+        "Shukaku Gaara": {
+            "face": "https://i.imgur.com/jzgsSwP.png",
+            "skills": [
+                {
+                    "name": "Sand Claw",
+                    "url": "https://i.imgur.com/A4pnLul.jpg"
+                },
+                {
+                    "name": "Constricting Sand Prison",
+                    "url": "https://i.imgur.com/p2DRexz.jpg"
+                },
+                {
+                    "name": "Sand Transformation",
+                    "url": "https://i.imgur.com/HfgfCr9.jpg"
+                },
+                {
+                    "name": "Thick Sand Coat",
+                    "url": "https://i.imgur.com/GKm7Zvl.jpg"
+                },
+                {
+                    "name": "Drilling Air Bullet",
+                    "url": "https://i.imgur.com/ZSMchzk.png"
+                },
+                {
+                    "name": "True Awakening",
+                    "url": "https://i.imgur.com/kAWDB8g.jpg"
+                }
+            ]
+        },
+        "Hoshigaki Kisame": {
+            "face": "https://i.imgur.com/9AlpaEw.png",
+            "skills": [
+                {
+                    "name": "Samehada Slash",
+                    "url": "https://i.imgur.com/kyyyNkG.png"
+                },
+                {
+                    "name": "Samehada Shred",
+                    "url": "https://i.imgur.com/7ZVF8bP.png"
+                },
+                {
+                    "name": "Water Shark Projectile",
+                    "url": "https://i.imgur.com/5Y5yd7c.png"
+                },
+                {
+                    "name": "Samehada Scale Block",
+                    "url": "https://i.imgur.com/GnHAzga.png"
+                }
+            ]
+        },
+        "Uchiha Itachi": {
+            "face": "https://i.imgur.com/DXGV0Uz.png",
+            "skills": [
+                {
+                    "name": "Mangekyo Sharingan",
+                    "url": "https://i.imgur.com/4o5RMUj.png"
+                },
+                {
+                    "name": "Amaterasu",
+                    "url": "https://i.imgur.com/Ta3ymyS.png"
+                },
+                {
+                    "name": "Tsukuyomi",
+                    "url": "https://i.imgur.com/Nmdk6oj.png"
+                },
+                {
+                    "name": "Sharingan Insight",
+                    "url": "https://i.imgur.com/YxNILAJ.png"
+                }
+            ]
+        },
+        "Uzumaki Naruto (S)": {
+            "face": "https://i.imgur.com/ADF8vjV.png",
+            "skills": [
+                {
+                    "name": "Oodama Rasengan",
+                    "url": "https://i.imgur.com/u6jV6Jd.png"
+                },
+                {
+                    "name": "Mass Shadow Clones",
+                    "url": "https://i.imgur.com/naEZw83.png"
+                },
+                {
+                    "name": "Chakra Boost",
+                    "url": "https://i.imgur.com/lW7kuLt.png"
+                },
+                {
+                    "name": "Shadow Clone Save",
+                    "url": "https://i.imgur.com/8lPJUXh.png"
+                },
+                {
+                    "name": "Rasenshuriken",
+                    "url": "https://i.imgur.com/xgXTViK.png"
+                }
+            ]
+        },
+        "Sarutobi Konohamaru": {
+            "face": "https://i.imgur.com/Yuy78WK.png",
+            "skills": [
+                {
+                    "name": "Konohamaru Rasengan",
+                    "url": "https://i.imgur.com/EHkHZgS.png"
+                },
+                {
+                    "name": "Agile Backflip",
+                    "url": "https://i.imgur.com/jwh29jm.png"
+                },
+                {
+                    "name": "Quick Recovery",
+                    "url": "https://i.imgur.com/HlxC5C8.png"
+                },
+                {
+                    "name": "Stealth",
+                    "url": "https://i.imgur.com/HsVXcXr.png"
+                }
+            ]
+        },
+        "Haruno Sakura (S)": {
+            "face": "https://i.imgur.com/CRFhkoe.png",
+            "skills": [
+                {
+                    "name": "Chakra Enhanced Punch",
+                    "url": "https://i.imgur.com/b9drCka.png"
+                },
+                {
+                    "name": "Superior Healing",
+                    "url": "https://i.imgur.com/jqiUBEM.png"
+                },
+                {
+                    "name": "Strength of a Hundred Seal",
+                    "url": "https://i.imgur.com/TBI5NVw.png"
+                },
+                {
+                    "name": "Insightful Dodge",
+                    "url": "https://i.imgur.com/Ic5BtP9.png"
+                }
+            ]
+        },
+        "Sai (S)": {
+            "face": "https://i.imgur.com/jE7GWpw.png",
+            "skills": [
+                {
+                    "name": "Super Beast Imitating Drawing: Lions",
+                    "url": "https://i.imgur.com/d1ic0UR.png"
+                },
+                {
+                    "name": "Super Beast Imitating Drawing: Snake",
+                    "url": "https://i.imgur.com/fGlKQw8.png"
+                },
+                {
+                    "name": "Adaptive Painting",
+                    "url": "https://i.imgur.com/nB8cFU3.png"
+                },
+                {
+                    "name": "Ink Clone",
+                    "url": "https://i.imgur.com/AoZJ9Vr.png"
+                },
+                {
+                    "name": "Super Beast Imitating Drawing: Bird",
+                    "url": "https://i.imgur.com/QKM5SKP.png"
+                }
+            ]
+        },
+        "Inuzuka Kiba (S)": {
+            "face": "https://i.imgur.com/51PY7W7.png",
+            "skills": [
+                {
+                    "name": "Man-Beast Clone",
+                    "url": "https://i.imgur.com/LHuaKLs.png"
+                },
+                {
+                    "name": "Rotating Fang",
+                    "url": "https://i.imgur.com/6nrbRWf.png"
+                },
+                {
+                    "name": "Fang Over Fang",
+                    "url": "https://i.imgur.com/JJqXroP.png"
+                },
+                {
+                    "name": "Hide in the Shade",
+                    "url": "https://i.imgur.com/FYMv2pb.png"
+                },
+                {
+                    "name": "Three-Headed Wolf",
+                    "url": "https://i.imgur.com/64AW4J6.png"
+                },
+                {
+                    "name": "Tail Chasing Rotating Fang",
+                    "url": "https://i.imgur.com/14BRJKg.png"
+                }
+            ]
+        },
+        "Aburame Shino (S)": {
+            "face": "https://i.imgur.com/nSB8GfM.png",
+            "skills": [
+                {
+                    "name": "Insect Swarm",
+                    "url": "https://i.imgur.com/FcaqanX.png"
+                },
+                {
+                    "name": "Insect Barricade",
+                    "url": "https://i.imgur.com/JIRZUb3.png"
+                },
+                {
+                    "name": "Parasitic Giant Beetle Infestation",
+                    "url": "https://i.imgur.com/c5NaVkK.png"
+                },
+                {
+                    "name": "Insect Cocoon",
+                    "url": "https://i.imgur.com/Ae7nPxG.png"
+                },
+                {
+                    "name": "Insect Consumption",
+                    "url": "https://i.imgur.com/w0m7Tt8.png"
+                }
+            ]
+        },
+        "Hyuuga Hinata (S)": {
+            "face": "https://i.imgur.com/ktLOVee.png",
+            "skills": [
+                {
+                    "name": "Pressure Point Closure",
+                    "url": "https://i.imgur.com/rtAhdls.png"
+                },
+                {
+                    "name": "Gentle Step Twin Lion Fists",
+                    "url": "https://i.imgur.com/RDPoiGZ.png"
+                },
+                {
+                    "name": "Hinata: Eight Trigrams Field",
+                    "url": "https://i.imgur.com/3igdVzH.png"
+                },
+                {
+                    "name": "Byakugan Sight",
+                    "url": "https://i.imgur.com/Ea6XgBs.png"
+                }
+            ]
+        },
+        "Nara Shikamaru (S)": {
+            "face": "https://i.imgur.com/ovBOxEa.png",
+            "skills": [
+                {
+                    "name": "Shadow Sewing",
+                    "url": "https://i.imgur.com/1eTGjYh.png"
+                },
+                {
+                    "name": "Long-Range Tactics",
+                    "url": "https://i.imgur.com/SkoW7Eb.png"
+                },
+                {
+                    "name": "Expert Analysis",
+                    "url": "https://i.imgur.com/EeUkfpQ.png"
+                },
+                {
+                    "name": "Panicked Dodge",
+                    "url": "https://i.imgur.com/tZe7d8i.png"
+                },
+                {
+                    "name": "Shadow Sewing - Hold",
+                    "url": "https://i.imgur.com/YRBb3D8.png"
+                },
+                {
+                    "name": "Final Explosion",
+                    "url": "https://i.imgur.com/m4z05zN.png"
+                }
+            ]
+        },
+        "Akimichi Chouji (S)": {
+            "face": "https://i.imgur.com/yOkMa5x.png",
+            "skills": [
+                {
+                    "name": "Butterfly Bullet Bombing",
+                    "url": "https://i.imgur.com/HTFxUzW.png"
+                },
+                {
+                    "name": "Human Bullet Tank",
+                    "url": "https://i.imgur.com/EwDVEsS.png"
+                },
+                {
+                    "name": "Butterfly Control",
+                    "url": "https://i.imgur.com/80bFCaV.png"
+                },
+                {
+                    "name": "Butterfly Block",
+                    "url": "https://i.imgur.com/88638R1.png"
+                },
+                {
+                    "name": "Super-Slap",
+                    "url": "https://i.imgur.com/T47gRzJ.png"
+                }
+            ]
+        },
+        "Yamanaka Ino (S)": {
+            "face": "https://i.imgur.com/x7BahTe.png",
+            "skills": [
+                {
+                    "name": "Mind Body Switch Interference",
+                    "url": "https://i.imgur.com/lSobTDI.png"
+                },
+                {
+                    "name": "Proxy Surveillance",
+                    "url": "https://i.imgur.com/y3bJlyB.png"
+                },
+                {
+                    "name": "Mind Clone Switch",
+                    "url": "https://i.imgur.com/XG8euoA.png"
+                },
+                {
+                    "name": "Hide",
+                    "url": "https://i.imgur.com/GYxhrYp.png"
+                }
+            ]
+        },
+        "Rock Lee (S)": {
+            "face": "https://i.imgur.com/SBgejs2.png",
+            "skills": [
+                {
+                    "name": "Leaf Rising Wind",
+                    "url": "https://i.imgur.com/DSfZAbq.png"
+                },
+                {
+                    "name": "Leaf Great Whirlwind",
+                    "url": "https://i.imgur.com/66wenY8.png"
+                },
+                {
+                    "name": "Maximum Force Blast",
+                    "url": "https://i.imgur.com/1T89JYR.png"
+                },
+                {
+                    "name": "Jumping Dodge",
+                    "url": "https://i.imgur.com/Z8QItbi.jpeg"
+                }
+            ]
+        },
+        "Tenten (S)": {
+            "face": "https://i.imgur.com/7OyNZMx.png",
+            "skills": [
+                {
+                    "name": "Kunai Grenade",
+                    "url": "https://i.imgur.com/g0ZItPe.png"
+                },
+                {
+                    "name": "Chain Spin",
+                    "url": "https://i.imgur.com/6d8QHGO.png"
+                },
+                {
+                    "name": "Weapon Upgrade",
+                    "url": "https://i.imgur.com/4gqbQHh.png"
+                },
+                {
+                    "name": "Leaping Dodge",
+                    "url": "https://i.imgur.com/9Q9R8e4.png"
+                },
+                {
+                    "name": "Heavenly Chain Disaster",
+                    "url": "https://i.imgur.com/ooQdu9y.png"
+                },
+                {
+                    "name": "Iron Protection Wall",
+                    "url": "https://i.imgur.com/apywwcx.png"
+                },
+                {
+                    "name": "Bashousen: Coil of Fire",
+                    "url": "https://i.imgur.com/uN0jdru.png"
+                },
+                {
+                    "name": "Bashousen: Coil of Wind",
+                    "url": "https://i.imgur.com/5k03jVr.png"
+                }
+            ]
+        },
+        "Hyuuga Neji (S)": {
+            "face": "https://i.imgur.com/WKV0ISD.png",
+            "skills": [
+                {
+                    "name": "Eight Trigrams Vacuum Palm",
+                    "url": "https://imgur.com/Hk47OEA.png"
+                },
+                {
+                    "name": "Eight Trigrams Mountain Crusher",
+                    "url": "https://i.imgur.com/RjDKqBY.png"
+                },
+                {
+                    "name": "Neji: Eight Trigrams Field",
+                    "url": "https://imgur.com/UumSiJh.png"
+                },
+                {
+                    "name": "Byakugan Defense",
+                    "url": "https://imgur.com/UlJtFiH.png"
+                },
+                {
+                    "name": "Pressure Point Strike",
+                    "url": "https://i.imgur.com/Zq8Dqsm.png"
+                }
+            ]
+        },
+        "Hatake Kakashi (S)": {
+            "face": "https://i.imgur.com/lKc2rbD.png",
+            "skills": [
+                {
+                    "name": "Lightning Beast Fang",
+                    "url": "https://i.imgur.com/07efvor.png"
+                },
+                {
+                    "name": "Kakashi Kamui",
+                    "url": "https://i.imgur.com/46CCve7.png"
+                },
+                {
+                    "name": "Team Tactics",
+                    "url": "https://i.imgur.com/yPfyM9R.png"
+                },
+                {
+                    "name": "Shadow Clone Stand-in",
+                    "url": "https://i.imgur.com/ToRKfvb.png"
+                },
+                {
+                    "name": "Finishing Raikiri",
+                    "url": "https://i.imgur.com/ITGCcaa.png"
+                }
+            ]
+        },
+        "Yamato": {
+            "face": "https://i.imgur.com/eJN2Bgx.png",
+            "skills": [
+                {
+                    "name": "Bliss-Bringing Hands",
+                    "url": "https://i.imgur.com/DXZh3w1.png"
+                },
+                {
+                    "name": "Wood Clone",
+                    "url": "https://i.imgur.com/Cy9zjvr.png"
+                },
+                {
+                    "name": "Four-Pillar Prison",
+                    "url": "https://i.imgur.com/B8QtS9K.png"
+                },
+                {
+                    "name": "Wood Locking Wall",
+                    "url": "https://i.imgur.com/m9SiZkn.png"
+                }
+            ]
+        },
+        "Maito Gai (S)": {
+            "face": "https://i.imgur.com/oMociaf.png",
+            "skills": [
+                {
+                    "name": "Nunchaku Taijutsu",
+                    "url": "https://i.imgur.com/bu9TdIv.png"
+                },
+                {
+                    "name": "Fiery Kick",
+                    "url": "https://i.imgur.com/pZ2Ry1R.png"
+                },
+                {
+                    "name": "Single Gate Release",
+                    "url": "https://i.imgur.com/ruaqxuZ.png"
+                },
+                {
+                    "name": "Muscle Block",
+                    "url": "https://i.imgur.com/OpIQEuv.png"
+                },
+                {
+                    "name": "Morning Peacock",
+                    "url": "https://i.imgur.com/SS1LDq8.png"
+                },
+                {
+                    "name": "Daytime Tiger",
+                    "url": "https://i.imgur.com/66sNyCL.png"
+                }
+            ]
+        },
+        "Sarutobi Asuma (S)": {
+            "face": "https://i.imgur.com/CYF606U.png",
+            "skills": [
+                {
+                    "name": "Thousand-Armed Murder",
+                    "url": "https://i.imgur.com/jNKJQur.png"
+                },
+                {
+                    "name": "Ash Pile Burning",
+                    "url": "https://i.imgur.com/51JwKbr.png"
+                },
+                {
+                    "name": "Decapitate",
+                    "url": "https://i.imgur.com/QgXg9fS.png"
+                },
+                {
+                    "name": "Evasion",
+                    "url": "https://i.imgur.com/K0um1gq.png"
+                },
+                {
+                    "name": "Ash Pile Burning - Ignite",
+                    "url": "https://i.imgur.com/hjg9FWz.png"
+                }
+            ]
+        },
+        "Izumo and Kotetsu": {
+            "face": "https://i.imgur.com/oFRUh7B.png",
+            "skills": [
+                {
+                    "name": "Mace Crush",
+                    "url": "https://i.imgur.com/st09j1g.jpg"
+                },
+                {
+                    "name": "Starch Syrup Capturing Field",
+                    "url": "https://i.imgur.com/I2M3m7i.jpg"
+                },
+                {
+                    "name": "Devastate",
+                    "url": "https://i.imgur.com/W5VuH7m.jpg"
+                },
+                {
+                    "name": "Tag Team",
+                    "url": "https://i.imgur.com/gDCDUMD.jpg"
+                },
+                {
+                    "name": "Annihilate",
+                    "url": "https://i.imgur.com/gFhN8WU.png"
+                }
+            ]
+        },
+        "Yamashiro Aoba": {
+            "face": "https://i.imgur.com/DSILjJ6.png",
+            "skills": [
+                {
+                    "name": "Scattering Thousand Crows Technique",
+                    "url": "https://i.imgur.com/2VvTqS9.png"
+                },
+                {
+                    "name": "Revenge of the Murder",
+                    "url": "https://i.imgur.com/ho5pidQ.png"
+                },
+                {
+                    "name": "Convergence of a Murder",
+                    "url": "https://i.imgur.com/N4Z04FG.png"
+                },
+                {
+                    "name": "Crow Shield",
+                    "url": "https://i.imgur.com/m8w99f8.png"
+                }
+            ]
+        },
+        "Inuzuka Tsume": {
+            "face": "https://i.imgur.com/0JSJteO.png",
+            "skills": [
+                {
+                    "name": "Summon Kuromaru",
+                    "url": "https://i.imgur.com/BxSvfpG.png"
+                },
+                {
+                    "name": "Passing Fang",
+                    "url": "https://i.imgur.com/53f8q2Q.png"
+                },
+                {
+                    "name": "Flashbang",
+                    "url": "https://i.imgur.com/P1Y9n3z.png"
+                },
+                {
+                    "name": "Man-Beast Defense",
+                    "url": "https://i.imgur.com/UmQRaHZ.png"
+                },
+                {
+                    "name": "Fierce Bite",
+                    "url": "https://i.imgur.com/sjrxK3l.png"
+                }
+            ]
+        },
+        "Akimichi Chouza (S)": {
+            "face": "https://i.imgur.com/T4mxP0u.png",
+            "skills": [
+                {
+                    "name": "Chain Bind",
+                    "url": "https://i.imgur.com/V5Ker5n.png"
+                },
+                {
+                    "name": "Chouza Meat Tank",
+                    "url": "https://i.imgur.com/NCr5YOX.png"
+                },
+                {
+                    "name": "Partial-Size Smash",
+                    "url": "https://i.imgur.com/EZ2hcOV.jpeg"
+                },
+                {
+                    "name": "Chouza Block",
+                    "url": "https://i.imgur.com/ylYe1t1.png"
+                }
+            ]
+        },
+        "Nara Shikaku": {
+            "face": "https://i.imgur.com/drKbi62.png",
+            "skills": [
+                {
+                    "name": "Master Shadow Imitation",
+                    "url": "https://i.imgur.com/daGBuKS.png"
+                },
+                {
+                    "name": "Black Spider Lily",
+                    "url": "https://i.imgur.com/OTNQw5N.png"
+                },
+                {
+                    "name": "Problem Analysis",
+                    "url": "https://i.imgur.com/SrDeUzW.png"
+                },
+                {
+                    "name": "Human Barricade",
+                    "url": "https://i.imgur.com/Nyx7LfT.png"
+                },
+                {
+                    "name": "Shadow Dispersion",
+                    "url": "https://i.imgur.com/474zyLo.png"
+                }
+            ]
+        },
+        "Yamanaka Inoichi": {
+            "face": "https://i.imgur.com/D5wMgU4.png",
+            "skills": [
+                {
+                    "name": "Psycho Mind Transmission",
+                    "url": "https://i.imgur.com/KOiB091.png"
+                },
+                {
+                    "name": "Sensing Water Sphere",
+                    "url": "https://i.imgur.com/jFSF2I3.png"
+                },
+                {
+                    "name": "Mental Invasion",
+                    "url": "https://i.imgur.com/LiPZiOp.png"
+                },
+                {
+                    "name": "Mobile Barrier",
+                    "url": "https://i.imgur.com/opHlubG.png"
+                }
+            ]
+        },
+        "Hyuuga Hiashi": {
+            "face": "https://i.imgur.com/OFImDHx.png",
+            "skills": [
+                {
+                    "name": "Master Gentle Fist",
+                    "url": "https://i.imgur.com/OXOLq9a.jpg"
+                },
+                {
+                    "name": "Master Revolving Heaven",
+                    "url": "https://i.imgur.com/nXwOyt7.jpg"
+                },
+                {
+                    "name": "Eight Trigrams Vacuum Wall Palm",
+                    "url": "https://i.imgur.com/dhKR9Ee.jpg"
+                },
+                {
+                    "name": "Hiashi Byakugan",
+                    "url": "https://i.imgur.com/81nCkpb.jpg"
+                }
+            ]
+        },
+        "Aburame Torune": {
+            "face": "https://i.imgur.com/97cN9Tw.png",
+            "skills": [
+                {
+                    "name": "Armor of Venom",
+                    "url": "https://i.imgur.com/Ax6HkaI.png"
+                },
+                {
+                    "name": "Jar of Poison",
+                    "url": "https://i.imgur.com/Q7GIpYB.png"
+                },
+                {
+                    "name": "Venom Explosion",
+                    "url": "https://i.imgur.com/dLD5yj4.jpeg"
+                },
+                {
+                    "name": "Super Leap",
+                    "url": "https://i.imgur.com/2VtvWBR.png"
+                },
+                {
+                    "name": "Venom Beetle",
+                    "url": "https://i.imgur.com/z24xy0F.png"
+                }
+            ]
+        },
+        "Yamanaka Fu": {
+            "face": "https://i.imgur.com/HJetP8q.png",
+            "skills": [
+                {
+                    "name": "Tanto Slash",
+                    "url": "https://i.imgur.com/Ivhjle9.png"
+                },
+                {
+                    "name": "Quickened Mind Body Switch",
+                    "url": "https://i.imgur.com/UtGsxRv.png"
+                },
+                {
+                    "name": "Mind Puppet Switch",
+                    "url": "https://i.imgur.com/XWZVLWA.png"
+                },
+                {
+                    "name": "High Jump",
+                    "url": "https://i.imgur.com/bwxSRFa.png"
+                },
+                {
+                    "name": "Mind Puppet Switch - Attack",
+                    "url": "https://i.imgur.com/F94sK6m.jpeg"
+                }
+            ]
+        },
+        "Shimura Danzo": {
+            "face": "https://i.imgur.com/sJsYMZg.png",
+            "skills": [
+                {
+                    "name": "Vacuum Sphere",
+                    "url": "https://i.imgur.com/XHrYlAo.png"
+                },
+                {
+                    "name": "Summuning Jutsu: Baku",
+                    "url": "https://i.imgur.com/i32OUGr.jpeg"
+                },
+                {
+                    "name": "Danzo: Izanagi",
+                    "url": "https://i.imgur.com/g5uwng1.png"
+                },
+                {
+                    "name": "Hashirama's Cell Tree Creation",
+                    "url": "https://i.imgur.com/yBN0g6C.png"
+                },
+                {
+                    "name": "Vacuum Blade",
+                    "url": "https://i.imgur.com/yto8Zbf.png"
+                }
+            ]
+        },
+        "Chiyo (S)": {
+            "face": "https://i.imgur.com/Einn96E.png",
+            "skills": [
+                {
+                    "name": "White Secret Attack Taijutsu Rampage",
+                    "url": "https://i.imgur.com/3iDBLhW.jpg"
+                },
+                {
+                    "name": "Sanbou Kyuukai",
+                    "url": "https://i.imgur.com/61Jr2Nq.jpg"
+                },
+                {
+                    "name": "Ally Puppetry",
+                    "url": "https://i.imgur.com/op5ywuv.jpg"
+                },
+                {
+                    "name": "Chakra Shield",
+                    "url": "https://i.imgur.com/FCTthAl.jpg"
+                }
+            ]
+        },
+        "Maki (S)": {
+            "face": "https://i.imgur.com/BdvkPHM.png",
+            "skills": [
+                {
+                    "name": "Weighted Net Scroll",
+                    "url": "https://i.imgur.com/oVUgsri.jpg"
+                },
+                {
+                    "name": "Humidified Cloth",
+                    "url": "https://i.imgur.com/zhrvOzU.jpg"
+                },
+                {
+                    "name": "Binding Cloth",
+                    "url": "https://i.imgur.com/e5y781K.jpg"
+                },
+                {
+                    "name": "Cloth Shelter",
+                    "url": "https://i.imgur.com/KoLJaDs.jpg"
+                }
+            ]
+        },
+        "Kazekage Gaara (S)": {
+            "face": "https://i.imgur.com/feBCfoH.png",
+            "skills": [
+                {
+                    "name": "Desert Missile",
+                    "url": "https://i.imgur.com/ei2OVZC.jpg"
+                },
+                {
+                    "name": "Desert Prison",
+                    "url": "https://i.imgur.com/EpS0551.jpg"
+                },
+                {
+                    "name": "Sand Summoning",
+                    "url": "https://i.imgur.com/Q0SnYi5.jpg"
+                },
+                {
+                    "name": "Sand Sphere",
+                    "url": "https://i.imgur.com/EW7NcIO.jpg"
+                }
+            ]
+        },
+        "Kankuro (S)": {
+            "face": "https://i.imgur.com/PgKQQQ8.png",
+            "skills": [
+                {
+                    "name": "Kuroari Trap",
+                    "url": "https://i.imgur.com/87yPHF9.jpg"
+                },
+                {
+                    "name": "Karasu Knives",
+                    "url": "https://i.imgur.com/U9xQ2do.jpg"
+                },
+                {
+                    "name": "Sanshouo Shield",
+                    "url": "https://i.imgur.com/Is6E0I1.jpg"
+                },
+                {
+                    "name": "Puppet Distraction",
+                    "url": "https://i.imgur.com/iHmY63E.jpg"
+                },
+                {
+                    "name": "Salamander Puppet",
+                    "url": "https://i.imgur.com/S0yQdqY.png"
+                }
+            ]
+        },
+        "Temari (S)": {
+            "face": "https://i.imgur.com/yVh5Bdx.png",
+            "skills": [
+                {
+                    "name": "First Moon",
+                    "url": "https://i.imgur.com/gSdZ4K6.jpg"
+                },
+                {
+                    "name": "Ally Protection",
+                    "url": "https://i.imgur.com/wHYYfX5.jpg"
+                },
+                {
+                    "name": "Wind Scythe",
+                    "url": "https://i.imgur.com/OI7PA7r.jpg"
+                },
+                {
+                    "name": "Fan Offensive Defense",
+                    "url": "https://i.imgur.com/uDKZsrT.jpg"
+                },
+                {
+                    "name": "Second Moon",
+                    "url": "https://i.imgur.com/WfSHA5B.jpg"
+                },
+                {
+                    "name": "Third Moon",
+                    "url": "https://i.imgur.com/LaB9yu2.jpg"
+                }
+            ]
+        },
+        "Nii Yugito (S)": {
+            "face": "https://i.imgur.com/Qt3hKbT.png",
+            "skills": [
+                {
+                    "name": "Nibi Transformation",
+                    "url": "https://i.imgur.com/7ljHzHl.jpeg"
+                },
+                {
+                    "name": "Spectral Fireball",
+                    "url": "https://i.imgur.com/rXvXymc.jpeg"
+                },
+                {
+                    "name": "Claw Swipe",
+                    "url": "https://i.imgur.com/NxCHg7s.jpeg"
+                },
+                {
+                    "name": "Rage",
+                    "url": "https://i.imgur.com/F2LhVVO.jpeg"
+                }
+            ]
+        },
+        "Utakata (S)": {
+            "face": "https://i.imgur.com/ySIq2yL.png",
+            "skills": [
+                {
+                    "name": "Soap Bubble Ninjutsu",
+                    "url": "https://i.imgur.com/sFWZewc.png"
+                },
+                {
+                    "name": "Drowning Bubble Technique",
+                    "url": "https://i.imgur.com/pH2eeKa.png"
+                },
+                {
+                    "name": "Rokubi Transformation",
+                    "url": "https://i.imgur.com/CAHL3Jq.jpg"
+                },
+                {
+                    "name": "Bubble Dome",
+                    "url": "https://i.imgur.com/Pcy4f2K.png"
+                }
+            ]
+        },
+        "Four Tail Kyuubi Naruto (S)": {
+            "face": "https://i.imgur.com/aoTWUJs.jpg",
+            "skills": [
+                {
+                    "name": "Four Tails Transformation",
+                    "url": "https://i.imgur.com/i5dfjcU.jpg"
+                },
+                {
+                    "name": "Shockwave Smash",
+                    "url": "https://i.imgur.com/buukeg1.jpg"
+                },
+                {
+                    "name": "Compressed Chakra Blast",
+                    "url": "https://i.imgur.com/TtyXG2s.jpg"
+                },
+                {
+                    "name": "Skin of Chakra",
+                    "url": "https://i.imgur.com/dAFHFbN.jpg"
+                }
+            ]
+        },
+        "Hachibi Bee (S)": {
+            "face": "https://i.imgur.com/G6Ahtev.png",
+            "skills": [
+                {
+                    "name": "Chakra Bones",
+                    "url": "https://i.imgur.com/axIJoyI.jpg"
+                },
+                {
+                    "name": "Lariat",
+                    "url": "https://i.imgur.com/i5qeamK.jpg"
+                },
+                {
+                    "name": "Tailed Beast Bomb",
+                    "url": "https://i.imgur.com/zZ6TOSe.jpg"
+                },
+                {
+                    "name": "Jinchuriki Defense",
+                    "url": "https://i.imgur.com/CSkJNkR.jpg"
+                }
+            ]
+        },
+        "Kitsuchi (S)": {
+            "face": "https://i.imgur.com/nYnxYtf.png",
+            "skills": [
+                {
+                    "name": "Granite Fist",
+                    "url": "https://i.imgur.com/elgdqEx.png"
+                },
+                {
+                    "name": "Earth Rising Excavation",
+                    "url": "https://i.imgur.com/3Q3T57x.png"
+                },
+                {
+                    "name": "Earth Release Sandwich",
+                    "url": "https://i.imgur.com/MD1rFIy.png"
+                },
+                {
+                    "name": "Earth Shelter",
+                    "url": "https://i.imgur.com/CZ3cBmo.png"
+                }
+            ]
+        },
+        "Kurotsuchi (S)": {
+            "face": "https://i.imgur.com/VklHLZj.png",
+            "skills": [
+                {
+                    "name": "Lava Quicklime",
+                    "url": "https://i.imgur.com/IfGguSW.png"
+                },
+                {
+                    "name": "Water Trumpet",
+                    "url": "https://i.imgur.com/UGWRZFZ.png"
+                },
+                {
+                    "name": "Earth Spears",
+                    "url": "https://i.imgur.com/4YUPdLi.png"
+                },
+                {
+                    "name": "Evasiveness",
+                    "url": "https://i.imgur.com/25MtzHo.png"
+                }
+            ]
+        },
+        "Shee (S)": {
+            "face": "https://i.imgur.com/3lesV67.png",
+            "skills": [
+                {
+                    "name": "Sensor Awareness",
+                    "url": "https://i.imgur.com/vi5Suz2.png"
+                },
+                {
+                    "name": "Ally Heal",
+                    "url": "https://i.imgur.com/GjK3VDu.jpg"
+                },
+                {
+                    "name": "Lightning Illusion Flash",
+                    "url": "https://i.imgur.com/eHnzBS8.png"
+                },
+                {
+                    "name": "Defensive Reaction",
+                    "url": "https://i.imgur.com/0iIHGsI.jpg"
+                }
+            ]
+        },
+        "Dodai (S)": {
+            "face": "https://i.imgur.com/wnTBp6e.png",
+            "skills": [
+                {
+                    "name": "Rubber Wall",
+                    "url": "https://i.imgur.com/warB4Yw.jpg"
+                },
+                {
+                    "name": "Communication Telepathy",
+                    "url": "https://i.imgur.com/9FJfAxr.jpg"
+                },
+                {
+                    "name": "Rubber Ball and Rope",
+                    "url": "https://i.imgur.com/w0Kx3qE.jpg"
+                },
+                {
+                    "name": "Lava Release Defense",
+                    "url": "https://i.imgur.com/i6Ph8iA.jpg"
+                }
+            ]
+        },
+        "Sennin Jiraiya (S)": {
+            "face": "https://i.imgur.com/pHbQ1q0.png",
+            "skills": [
+                {
+                    "name": "Bath of Burning Oil",
+                    "url": "https://i.imgur.com/DkpKWQU.jpg"
+                },
+                {
+                    "name": "Kebari Senbon",
+                    "url": "https://i.imgur.com/zrgHWDZ.jpg"
+                },
+                {
+                    "name": "Chou Oodama Rasengan",
+                    "url": "https://i.imgur.com/KCTS7DZ.jpg"
+                },
+                {
+                    "name": "Arm Block",
+                    "url": "https://i.imgur.com/LMkh8Pe.jpg"
+                }
+            ]
+        },
+        "Hozuki Suigetsu (S)": {
+            "face": "https://i.imgur.com/Bl8706t.png",
+            "skills": [
+                {
+                    "name": "Muscle Expansion",
+                    "url": "https://i.imgur.com/wzRlTBc.jpg"
+                },
+                {
+                    "name": "Hydro Taijutsu",
+                    "url": "https://i.imgur.com/WzDlIbW.jpg"
+                },
+                {
+                    "name": "Rehydration",
+                    "url": "https://i.imgur.com/ErY2Ve4.jpg"
+                },
+                {
+                    "name": "Zanbato Deflection",
+                    "url": "https://i.imgur.com/KWOKHUi.jpg"
+                }
+            ]
+        },
+        "Karin (S)": {
+            "face": "https://i.imgur.com/mTEOQnf.png",
+            "skills": [
+                {
+                    "name": "Minds Eye of Kagura",
+                    "url": "https://i.imgur.com/Wii6lUN.jpg"
+                },
+                {
+                    "name": "Raging Punch",
+                    "url": "https://i.imgur.com/OlX4UNQ.jpg"
+                },
+                {
+                    "name": "Chakra Transfer",
+                    "url": "https://i.imgur.com/L836ND0.jpg"
+                },
+                {
+                    "name": "Precipitous Retreat",
+                    "url": "https://i.imgur.com/NVluVlD.jpg"
+                }
+            ]
+        },
+        "Cursed Seal Juugo (S)": {
+            "face": "https://i.imgur.com/qHYmfPH.png",
+            "skills": [
+                {
+                    "name": "Psychotic Break",
+                    "url": "https://i.imgur.com/TTcgYie.jpg"
+                },
+                {
+                    "name": "Chakra Cannons",
+                    "url": "https://i.imgur.com/f6kBktK.jpg"
+                },
+                {
+                    "name": "Body Absorption",
+                    "url": "https://i.imgur.com/fuf3nxO.jpg"
+                },
+                {
+                    "name": "Resilience",
+                    "url": "https://i.imgur.com/S2UwZSA.jpg"
+                }
+            ]
+        },
+        "Mangekyou Sasuke (S)": {
+            "face": "https://i.imgur.com/68HdNdl.png",
+            "skills": [
+                {
+                    "name": "Amateur Susanoo",
+                    "url": "https://i.imgur.com/yrlyml6.jpg"
+                },
+                {
+                    "name": "Enton Amaterasu",
+                    "url": "https://i.imgur.com/F2nA9nH.jpg"
+                },
+                {
+                    "name": "Dark Genjutsu",
+                    "url": "https://i.imgur.com/mPKIotw.jpg"
+                },
+                {
+                    "name": "Hawk Summoning",
+                    "url": "https://i.imgur.com/TRvpMVO.jpg"
+                }
+            ]
+        },
+        "Yakushi Kabuto (S)": {
+            "face": "https://i.imgur.com/QDSGUUF.png",
+            "skills": [
+                {
+                    "name": "Charging Mystical Palm",
+                    "url": "https://i.imgur.com/wjswo0g.jpg"
+                },
+                {
+                    "name": "Dead Soul Jutsu",
+                    "url": "https://i.imgur.com/y5oLcPH.jpg"
+                },
+                {
+                    "name": "Medical Ninjutsu",
+                    "url": "https://i.imgur.com/CiEtBYK.jpg"
+                },
+                {
+                    "name": "Precise Evasion",
+                    "url": "https://i.imgur.com/qnugaKg.jpg"
+                }
+            ]
+        },
+        "Orochimaru (S)": {
+            "face": "https://i.imgur.com/gqw2wdW.png",
+            "skills": [
+                {
+                    "name": "Second Skin",
+                    "url": "https://i.imgur.com/7g5Xli0.jpg"
+                },
+                {
+                    "name": "Sword Snake Horde",
+                    "url": "https://i.imgur.com/AHK0aTN.jpg"
+                },
+                {
+                    "name": "Extended Kusanagi",
+                    "url": "https://i.imgur.com/29BoXLE.jpg"
+                },
+                {
+                    "name": "Triple Rashoumon",
+                    "url": "https://i.imgur.com/jh0I5Ar.jpg"
+                }
+            ]
+        },
+        "Fukasaku and Shima (S)": {
+            "face": "https://i.imgur.com/26K2UEe.png",
+            "skills": [
+                {
+                    "name": "Frog Song",
+                    "url": "https://i.imgur.com/vbulBE8.png"
+                },
+                {
+                    "name": "Sand Dust",
+                    "url": "https://i.imgur.com/dfWy9TI.png"
+                },
+                {
+                    "name": "Toad Confrontation Singing",
+                    "url": "https://i.imgur.com/cc8bIPI.png"
+                },
+                {
+                    "name": "Reverse Summoning",
+                    "url": "https://i.imgur.com/wpTjRrl.png"
+                }
+            ]
+        },
+        "Kisame Body Double (S)": {
+            "face": "https://i.imgur.com/ZZcY2bV.png",
+            "skills": [
+                {
+                    "name": "Explosive Water Shock Wave",
+                    "url": "https://i.imgur.com/zj6IL6B.jpg"
+                },
+                {
+                    "name": "Water Prison Technique",
+                    "url": "https://i.imgur.com/b6tOb7o.jpg"
+                },
+                {
+                    "name": "Five Man-Eating Sharks",
+                    "url": "https://i.imgur.com/EsR97jR.jpg"
+                },
+                {
+                    "name": "Kisame Body Double (S) Water Clone",
+                    "url": "https://i.imgur.com/JCBE3SE.jpg"
+                }
+            ]
+        },
+        "Itachi Body Double (S)": {
+            "face": "https://i.imgur.com/fLt4tVT.png",
+            "skills": [
+                {
+                    "name": "Finger Genjutsu",
+                    "url": "https://i.imgur.com/9kA7uYQ.jpg"
+                },
+                {
+                    "name": "Genjutsu Reversal",
+                    "url": "https://i.imgur.com/oif8mlK.jpg"
+                },
+                {
+                    "name": "Goukakyuu no Jutsu",
+                    "url": "https://i.imgur.com/HUCVDhp.jpg"
+                },
+                {
+                    "name": "Illusionary Raven Bunshin",
+                    "url": "https://i.imgur.com/oyzXfwY.jpg"
+                }
+            ]
+        },
+        "Deidara (S)": {
+            "face": "https://i.imgur.com/Q96ZGlC.png",
+            "skills": [
+                {
+                    "name": "C3: Spider",
+                    "url": "https://i.imgur.com/ZG29U3w.png"
+                },
+                {
+                    "name": "C1: Explosives",
+                    "url": "https://i.imgur.com/n13sai7.png"
+                },
+                {
+                    "name": "Clay Mode",
+                    "url": "https://i.imgur.com/FgfKNnF.png"
+                },
+                {
+                    "name": "Deidara Dodge",
+                    "url": "https://i.imgur.com/FvVJTAh.png"
+                },
+                {
+                    "name": "Katsu!",
+                    "url": "https://i.imgur.com/bZsXRBe.png"
+                },
+                {
+                    "name": "C1: Explosion",
+                    "url": "https://i.imgur.com/cWHny9J.png"
+                },
+                {
+                    "name": "Art is a Bang",
+                    "url": "https://i.imgur.com/89JXJLe.png"
+                }
+            ]
+        },
+        "Sasori (S)": {
+            "face": "https://i.imgur.com/2hrLTIS.png",
+            "skills": [
+                {
+                    "name": "Puppet Mastery",
+                    "url": "https://i.imgur.com/s0arP2O.jpg"
+                },
+                {
+                    "name": "Needle Shot, Arm Trap, 100 Puppets",
+                    "url": "https://i.imgur.com/Y151Djn.jpg"
+                },
+                {
+                    "name": "Tail Strike, Iron Sand, Fire-Water",
+                    "url": "https://i.imgur.com/P84i0eU.jpg"
+                },
+                {
+                    "name": "Core Shift",
+                    "url": "https://i.imgur.com/6RlvYnt.jpg"
+                }
+            ]
+        },
+        "Kakuzu (S)": {
+            "face": "https://i.imgur.com/CB3SKeG.png",
+            "skills": [
+                {
+                    "name": "Fuuton Atsugai",
+                    "url": "https://i.imgur.com/xnnPjNp.jpg"
+                },
+                {
+                    "name": "Raiton Gian",
+                    "url": "https://i.imgur.com/XqDsue7.jpg"
+                },
+                {
+                    "name": "Heart Steal",
+                    "url": "https://i.imgur.com/au3l9TW.jpg"
+                },
+                {
+                    "name": "Iron Skin Technique",
+                    "url": "https://i.imgur.com/h5FVWmK.jpg"
+                },
+                {
+                    "name": "Katon Zukokku",
+                    "url": "https://i.imgur.com/1x2XnXN.png"
+                },
+                {
+                    "name": "Inferno Gust",
+                    "url": "https://i.imgur.com/MTuMhez.jpg"
+                }
+            ]
+        },
+        "Konan (S)": {
+            "face": "https://i.imgur.com/4GcLM4y.png",
+            "skills": [
+                {
+                    "name": "Sword of Paper",
+                    "url": "https://i.imgur.com/2v48lqz.png"
+                },
+                {
+                    "name": "Origami Blanket",
+                    "url": "https://i.imgur.com/w6G28rF.png"
+                },
+                {
+                    "name": "Dance Of The Shikigami",
+                    "url": "https://i.imgur.com/vBXqRhS.png"
+                },
+                {
+                    "name": "Onmyoji Dodge",
+                    "url": "https://i.imgur.com/d6tqYdo.png"
+                }
+            ]
+        },
+        "Naraka Path Pein (S)": {
+            "face": "https://i.imgur.com/0xzWYad.png",
+            "skills": [
+                {
+                    "name": "Outer Path",
+                    "url": "https://i.imgur.com/RyWxFYA.jpg"
+                },
+                {
+                    "name": "Judgement",
+                    "url": "https://i.imgur.com/q4L8qST.jpg"
+                },
+                {
+                    "name": "Rejuvenation",
+                    "url": "https://i.imgur.com/qd4Qxag.jpg"
+                },
+                {
+                    "name": "Chakra Rod Deflection",
+                    "url": "https://i.imgur.com/Y94AV55.jpg"
+                }
+            ]
+        },
+        "Human Path Pein (S)": {
+            "face": "https://i.imgur.com/mbtinTx.pngg",
+            "skills": [
+                {
+                    "name": "Mind Invasion",
+                    "url": "https://i.imgur.com/QJdx50b.jpg"
+                },
+                {
+                    "name": "Soul Steal",
+                    "url": "https://i.imgur.com/fA7SGdq.jpg"
+                },
+                {
+                    "name": "Sneak Attack",
+                    "url": "https://i.imgur.com/sA5Hq3L.jpg"
+                },
+                {
+                    "name": "Rinnegan Awareness",
+                    "url": "https://i.imgur.com/vlbggxC.jpg"
+                }
+            ]
+        },
+        "White Zetsu (S)": {
+            "face": "https://i.imgur.com/8UuVWxM.png",
+            "skills": [
+                {
+                    "name": "Spore Technique",
+                    "url": "https://i.imgur.com/OQSwb1O.jpeg"
+                },
+                {
+                    "name": "Wood Release Roots",
+                    "url": "https://i.imgur.com/xwFBctW.jpeg"
+                },
+                {
+                    "name": "Parasite Clone",
+                    "url": "https://i.imgur.com/6WQrzMk.jpeg"
+                },
+                {
+                    "name": "Zetsu Substitute",
+                    "url": "https://i.imgur.com/Flt9k2w.jpeg"
+                }
+            ]
+        },
+        "Tobi (S)": {
+            "face": "https://i.imgur.com/ODK2rje.png",
+            "skills": [
+                {
+                    "name": "Tobi Sharingan",
+                    "url": "https://i.imgur.com/0cJrz85.png"
+                },
+                {
+                    "name": "Kamui",
+                    "url": "https://i.imgur.com/eKgYJFp.jpg"
+                },
+                {
+                    "name": "Hidden Izanagi",
+                    "url": "https://i.imgur.com/Ib3zwxh.jpg"
+                },
+                {
+                    "name": "Uchiha Perception",
+                    "url": "https://i.imgur.com/7pfuIB4.jpg"
+                }
+            ]
+        },
+        "Edo Tensei Chiyo (S)": {
+            "face": "https://i.imgur.com/cZQJvJO.png",
+            "skills": [
+                {
+                    "name": "White Secret Technique Ten Puppets",
+                    "url": "https://i.imgur.com/2cmisDT.jpeg"
+                },
+                {
+                    "name": "Possum",
+                    "url": "https://i.imgur.com/UYOJrNJ.jpeg"
+                },
+                {
+                    "name": "White Secret Art Illusion",
+                    "url": "https://i.imgur.com/0a5tqJP.jpeg"
+                },
+                {
+                    "name": "Puppet Master Defense",
+                    "url": "https://i.imgur.com/guuzAYX.jpeg"
+                }
+            ]
+        },
+        "Edo Tensei Kinkaku (S)": {
+            "face": "https://i.imgur.com/Nc5yHNo.png",
+            "skills": [
+                {
+                    "name": "Bashosen",
+                    "url": "https://i.imgur.com/Bu3lza2.jpeg"
+                },
+                {
+                    "name": "Kokinjo",
+                    "url": "https://i.imgur.com/VjzkM44.jpeg"
+                },
+                {
+                    "name": "Bashosen Flames",
+                    "url": "https://i.imgur.com/Y7CsPgy.jpeg"
+                },
+                {
+                    "name": "Kokinjo Defense",
+                    "url": "https://i.imgur.com/MTuAOjL.jpeg"
+                }
+            ]
+        },
+        "Edo Tensei Nagato (S)": {
+            "face": "https://i.imgur.com/2cZvsZV.png",
+            "skills": [
+                {
+                    "name": "Human Path",
+                    "url": "https://i.imgur.com/ZxpOu6O.jpeg"
+                },
+                {
+                    "name": "Preta Path",
+                    "url": "https://i.imgur.com/1QFzoZy.jpeg"
+                },
+                {
+                    "name": "Animal Path",
+                    "url": "https://i.imgur.com/3sYv8Zv.jpeg"
+                },
+                {
+                    "name": "Asura Path Defense",
+                    "url": "https://i.imgur.com/cUQMenX.jpeg"
+                }
+            ]
+        },
+        "Edo Tensei Deidara (S)": {
+            "face": "https://i.imgur.com/QQsLHQG.png",
+            "skills": [
+                {
+                    "name": "Katsu",
+                    "url": "https://i.imgur.com/K3gyLEm.png"
+                },
+                {
+                    "name": "Chakra Clay Trap",
+                    "url": "https://i.imgur.com/y2LMqr3.png"
+                },
+                {
+                    "name": "Sonar Bat Bombs",
+                    "url": "https://i.imgur.com/m4S9Hme.png"
+                },
+                {
+                    "name": "Flying Clay Clone",
+                    "url": "https://i.imgur.com/DLcVBfZ.png"
+                },
+                {
+                    "name": "Jellyfish Explosives",
+                    "url": "https://i.imgur.com/eQ3BPPy.png"
+                }
+            ]
+        },
+        "Edo Tensei Sasori (S)": {
+            "face": "https://i.imgur.com/xMHxftC.png",
+            "skills": [
+                {
+                    "name": "Chakra Threads",
+                    "url": "https://i.imgur.com/te75Xhy.png"
+                },
+                {
+                    "name": "Ally Control",
+                    "url": "https://i.imgur.com/Nua8wel.png"
+                },
+                {
+                    "name": "Puppet Manipulation",
+                    "url": "https://i.imgur.com/RwIx9mZ.png"
+                },
+                {
+                    "name": "Falling Guard",
+                    "url": "https://i.imgur.com/5TFEzWV.png"
+                }
+            ]
+        },
+        "Edo Tensei Fukai (S)": {
+            "face": "https://i.imgur.com/4xnZaUD.png",
+            "skills": [
+                {
+                    "name": "Chakra Arms",
+                    "url": "https://i.imgur.com/1Q27vzB.jpeg"
+                },
+                {
+                    "name": "Continuous Tailed Beast Bomb",
+                    "url": "https://i.imgur.com/jtmTA17.jpeg"
+                },
+                {
+                    "name": "Jinchuuriki Telepathy",
+                    "url": "https://i.imgur.com/9SIBTEq.jpeg"
+                },
+                {
+                    "name": "Chakra Cloak Defense",
+                    "url": "https://i.imgur.com/sTH6ntB.jpeg"
+                }
+            ]
+        },
+        "Edo Tensei Toroi (S)": {
+            "face": "https://i.imgur.com/4HKH3kY.png",
+            "skills": [
+                {
+                    "name": "Magnetic Field",
+                    "url": "https://i.imgur.com/Fo2Vd8O.png"
+                },
+                {
+                    "name": "Shurikenjutsu",
+                    "url": "https://i.imgur.com/7Yenb4B.png"
+                },
+                {
+                    "name": "Magnetic Current",
+                    "url": "https://i.imgur.com/uJeLTUJ.png"
+                },
+                {
+                    "name": "Shuriken Threads",
+                    "url": "https://i.imgur.com/mPcIcHK.png"
+                },
+                {
+                    "name": "Magnetized Shuriken",
+                    "url": "https://i.imgur.com/nxQZ5kK.png"
+                }
+            ]
+        },
+        "Temujin": {
+            "face": "https://i.imgur.com/hi77YBF.png",
+            "skills": [
+                {
+                    "name": "Raging Thunder",
+                    "url": "https://i.imgur.com/Xa9NlZI.png"
+                },
+                {
+                    "name": "Raging Thunder Threat",
+                    "url": "https://i.imgur.com/cpayN5n.png"
+                },
+                {
+                    "name": "Retractable Shield",
+                    "url": "https://i.imgur.com/xrSCHtM.png"
+                },
+                {
+                    "name": "Temujin Sword Parry",
+                    "url": "https://i.imgur.com/IrZci11.png"
+                },
+                {
+                    "name": "Raging Thunder Blast",
+                    "url": "https://i.imgur.com/NKhAFff.png"
+                }
+            ]
+        },
+        "Hoshigaki Kisame (S)": {
+            "face": "https://i.imgur.com/qVwWdfL.png",
+            "skills": [
+                {
+                    "name": "Samehada Fusion",
+                    "url": "https://i.imgur.com/WoFzuyA.png"
+                },
+                {
+                    "name": "Samehada Frenzy",
+                    "url": "https://i.imgur.com/fXsBwHk.png"
+                },
+                {
+                    "name": "Shark Bomb",
+                    "url": "https://i.imgur.com/HUF2v97.png"
+                },
+                {
+                    "name": "Water Isolation",
+                    "url": "https://i.imgur.com/tRNlT1S.png"
+                },
+                {
+                    "name": "Shark Bomb: Explosion",
+                    "url": "https://i.imgur.com/OTnGihT.png"
+                }
+            ]
+        },
+        "Preta Path Pein (S)": {
+            "face": "https://i.imgur.com/4kc75ml.png",
+            "skills": [
+                {
+                    "name": "Energy Shield",
+                    "url": "https://i.imgur.com/aSF7Q2O.jpg"
+                },
+                {
+                    "name": "Rinnegan Absorption",
+                    "url": "https://i.imgur.com/n1Rd3Tt.jpg"
+                },
+                {
+                    "name": "Chakra Pin",
+                    "url": "https://i.imgur.com/RyzGOhN.jpg"
+                },
+                {
+                    "name": "Agile Dodge",
+                    "url": "https://i.imgur.com/9RZKQtI.jpg"
+                }
+            ]
+        },
+        "Edo Tensei Zabuza (S)": {
+            "face": "https://i.imgur.com/pZk2BvZ.png",
+            "skills": [
+                {
+                    "name": "Demon Shroud",
+                    "url": "https://i.imgur.com/OryFxS5.png"
+                },
+                {
+                    "name": "Executioner Blade Absorption",
+                    "url": "https://i.imgur.com/Z0yuzKs.png"
+                },
+                {
+                    "name": "Executioner Strike",
+                    "url": "https://i.imgur.com/DKpDCWQ.png"
+                },
+                {
+                    "name": "Demon Insight",
+                    "url": "https://i.imgur.com/maezWad.png"
+                }
+            ]
+        },
+        "Edo Tensei Hizashi (S)": {
+            "face": "https://i.imgur.com/WUiHko5.png",
+            "skills": [
+                {
+                    "name": "Cursed Byakugan Activation",
+                    "url": "https://i.imgur.com/77qL5tx.png"
+                },
+                {
+                    "name": "Gentle Fist: Air Palm",
+                    "url": "https://i.imgur.com/eKInN8m.png"
+                },
+                {
+                    "name": "Eight-Trigrams Revolving Heaven",
+                    "url": "https://i.imgur.com/uUC9Y4x.png"
+                },
+                {
+                    "name": "Gentle Fist Guard",
+                    "url": "https://i.imgur.com/rpUFKUZ.png"
+                }
+            ]
+        },
+        "Edo Tensei Ginkaku (S)": {
+            "face": "https://i.imgur.com/3Gcle0W.png",
+            "skills": [
+                {
+                    "name": "Shichiseiken Slash",
+                    "url": "https://i.imgur.com/4qKzp06.png"
+                },
+                {
+                    "name": "Silence is Golden",
+                    "url": "https://i.imgur.com/yhDcmQ0.png"
+                },
+                {
+                    "name": "Benihisago",
+                    "url": "https://i.imgur.com/HRRhbo9.png"
+                },
+                {
+                    "name": "Shichiseiken Defense",
+                    "url": "https://i.imgur.com/h2M7g1J.png"
+                }
+            ]
+        },
+        "Tsunade (S)": {
+            "face": "https://i.imgur.com/XxemXi0.jpg",
+            "skills": [
+                {
+                    "name": "Heavenly Spear Kick",
+                    "url": "https://i.imgur.com/HT4dejQ.jpg"
+                },
+                {
+                    "name": "Enhanced Healing Wave",
+                    "url": "https://i.imgur.com/APrwxX5.jpg"
+                },
+                {
+                    "name": "Tsunade: Strength of a Hundred Seal",
+                    "url": "https://i.imgur.com/vmuucvA.jpg"
+                },
+                {
+                    "name": "Tsunade Protection",
+                    "url": "https://i.imgur.com/s1JpzEd.jpg"
+                }
+            ]
         }
-      ]
-    },
-    "Eight Gates Guy": {
-      "face": "https://i.imgur.com/example2.png",
-      "skills": [
-        {
-          "name": "Evening Elephant",
-          "url": "https://i.imgur.com/skill5.png"
-        },
-        {
-          "name": "Night Guy",
-          "url": "https://i.imgur.com/skill6.png"
-        },
-        {
-          "name": "Eight Gates Released",
-          "url": "https://i.imgur.com/skill7.png"
-        },
-        {
-          "name": "Red Steam",
-          "url": "https://i.imgur.com/skill8.png"
-        }
-      ]
     }
-  }
-} 
+}
