@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "2.0",
     "characters": {
         "Uzumaki Naruto": {
             "face": "https://i.imgur.com/QGf2RXi.png",
@@ -2999,6 +2999,27 @@
                 {
                     "name": "Tsunade Protection",
                     "url": "https://i.imgur.com/s1JpzEd.jpg"
+                }
+            ]
+        },
+        "Past Tenten": {
+            "face": "https://i.imgur.com/3Sz7xjn.png",
+            "skills": [
+                {
+                    "name": "Past Twin Rising Dragons Full Release",
+                    "url": "https://i.imgur.com/ouZOdWx.jpg"
+                },
+                {
+                    "name": "Past Twin Rising Dragons",
+                    "url": "https://i.imgur.com/SotOhWH.jpg"
+                },
+                {
+                    "name": "Past Twin Rising Dragons Trap",
+                    "url": "https://i.imgur.com/D8IWywr.jpg"
+                },
+                {
+                    "name": "Past Tenten Replacement Technique",
+                    "url": "https://i.imgur.com/yEhHWTa.jpg"
                 }
             ]
         }
